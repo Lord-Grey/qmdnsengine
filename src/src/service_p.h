@@ -27,6 +27,7 @@
 
 #include <QByteArray>
 #include <QMap>
+#include <QDebug>
 
 namespace QMdnsEngine
 {
